@@ -1,3 +1,2 @@
-# CCD_Characterization_student
-
-/Bryan Willams
+# Stellar-spectral-analysis
+# Bryan Williams
