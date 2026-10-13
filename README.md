@@ -1,3 +1,3 @@
-# CCD_Characterization
+# CCD_Characterization_student
 
 /Bryan Willams
